@@ -1,0 +1,24 @@
+{
+  "lang": "en-US",
+  "name": "Johan S. Guzmán V.",
+  "short_name": "JohanS.GuzmánV.",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "icons": [
+      {
+        "src": "/assets/logos/logo@16px.png",
+        "sizes": "16x16"
+      },
+      {
+        "src": "/assets/logos/logo@32px.png",
+        "sizes": "32x32"
+      },
+      {
+        "src": "/assets/logos/logo@512px.png",
+        "sizes": "512x512"
+      }
+      
+    ],
+  "start_url": "/",
+  "display": "standalone"
+}
